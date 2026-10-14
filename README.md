@@ -32,7 +32,7 @@ I configured a Conditional Access policy requiring MFA for selected users to str
 
 I configured a Conditional Access policy requiring a compliant device for administrative access.
 
-[View Lab Documentation](https://https://github.com/feezabicrown/CA-policy-admin-device-compliance)
+[View Lab Documentation](https://github.com/feezabicrown/CA-policy-admin-device-compliance)
 
 ## Security Lessons Learned
 
